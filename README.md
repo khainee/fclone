@@ -1,8 +1,15 @@
 # Fclone_Tg_Bot
 ⚫ This is just a Fclone only version of Telegram bot by [Smartass](https://github.com/smartass08) - [Here](https://github.com/smartass08/telegram_gcloner)
 
-##  🍎RunOn Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kzinthant-kas/superfclone)
+## BUILDING DOCKER IMAGE
+
+**Add config in GitHub repo.
+Required Variables(Add in Settings -> Secrets -> Actions -> Actions secrets -> New repository secret):**
+
+- `DOCKERPW` :<p><b><a href="https://hub.docker.com/settings/security">➥🎲Get from</a></b></p> 
+- `DOCKER_HUB_USERNAME` : Enter https://hub.docker.com Username.
+- `DOCKER_HUB_REPO` : Enter You Wish Name .It will be your docker repo.
+
 
 ##  ဂရုပြုရန်
 🔶. ဖြည့်စရာရှိတာဖြည့်ပြီးရင် telegram က bot ဆီသွားပြီး  **Start** သို့မဟုတ် **/start** နှိပ်ပါ။
